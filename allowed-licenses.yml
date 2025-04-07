@@ -1,4 +1,4 @@
 fail_on_severity: 'critical'
 comment-summary-in-pr: false
-deny-licenses:
+allow-licenses:
   - 'MIT'
